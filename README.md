@@ -41,17 +41,18 @@ Materiali che si possono utilizzare:
 
 
 ### Documentazione stampante 3D:
-[Link 1](https://www.prusa3d.it/prusaslicer/)</br>
-[Link 2](https://www.prusa3d.it/driver/)
+- [Link 1](https://www.prusa3d.it/prusaslicer/)</br>
+- [Link 2](https://www.prusa3d.it/driver/)
 </br></br>
 
 
 
-### Idee:
-1. Sensori (giroscopio), rappresentazione vituale del braccio tramite un software.
-2. Telacamera dietro la pinza per foto (A.I. per riconoscere oggetti).
-3. A.I. per giocare a tris.
-</br></br>
+### Software utile:
+- Libreria controller PS4: [Link](https://pypi.org/project/pyPS4Controller/)
+- ROS pagina ufficiale: [https://www.ros.org/]
+- ROS: [Link 1](https://www.instructables.com/Getting-Started-with-ROS-Robotic-Operating-Syste/)
+- ROS: [Link 2](https://robohub.org/programming-for-robotics-introduction-to-ros/)
+- ROS: [Link 3](https://github.com/ros/documentation/tree/master/rosdoc)
 
 
 
