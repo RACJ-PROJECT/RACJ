@@ -48,8 +48,8 @@ Materiali che si possono utilizzare:
 
 
 ### Idee:
-1. Sensori (giroscopio), rappresentazione vituale del braccio.
-2. Telacamera dietro la pinza per foto (riconoscere oggetti).
+1. Sensori (giroscopio), rappresentazione vituale del braccio tramite un software.
+2. Telacamera dietro la pinza per foto (A.I. per riconoscere oggetti).
 3. A.I. per giocare a tris.
 </br></br>
 
