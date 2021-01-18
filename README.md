@@ -22,11 +22,23 @@ IIC-PCA9685 | [Amazon](https://www.amazon.it/ARCELI-Interfaccia-IIC-PCA9685-ardu
 TB6600      | [Amazon](https://www.amazon.it/Scheda-controller-passo-passo-COVVY-segmenti/dp/B07SBZ9SM5/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=TB6600&qid=1610703473&s=industrial&sr=1-8)
 
 
+- [ ] Alimentatore:
 
-Componenti da disegnare:
-https://www.thingiverse.com/thing:1015238/files
-Forse da ridisegnare (materiali: plastica, legno, metallo)
+Link: [Amazon](https://www.amazon.it/gp/product/B07TC2LFRL/ref=ox_sc_saved_title_5?smid=A6FTR3WNTF6EM&psc=1)
 </br></br>
+
+
+
+### Componenti da disegnare:
+Le componenti vanno ridisegnate per permettere maggiore manovrabilità.
+[Link](https://www.thingiverse.com/thing:1015238/files)
+Materiali che si possono utilizzare:
+- Plastica (stampante 3D)
+- Legno (forse troppo pesante)
+- Metallo (forse troppo pesante)
+</br></br>
+
+
 
 Stampante 3d:
 https://www.prusa3d.it/prusaslicer/
