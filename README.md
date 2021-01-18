@@ -19,5 +19,9 @@ TB6600      | https://www.amazon.it/Scheda-controller-passo-passo-COVVY-segmenti
 
 
 Componenti da disegnare:
+https://www.thingiverse.com/thing:1015238/files
+</br></br>
+
+Stampante 3d:
 https://www.prusa3d.it/prusaslicer/
 https://www.prusa3d.it/driver/
