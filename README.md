@@ -20,8 +20,23 @@ TB6600      | https://www.amazon.it/Scheda-controller-passo-passo-COVVY-segmenti
 
 Componenti da disegnare:
 https://www.thingiverse.com/thing:1015238/files
+Forse da ridisegnare (materiali: plastica, legno, metallo)
 </br></br>
 
 Stampante 3d:
 https://www.prusa3d.it/prusaslicer/
 https://www.prusa3d.it/driver/
+</br></br>
+
+Idee:
+1. Sensori (giroscopio), rappresentazione vituale del braccio
+2. Telacamera dietro la pinza per foto (riconoscere oggetti)
+</br></br>
+
+Numero motori:</br>
+1. Aprire/Chiudere pinza. (limite: sensore pressione)
+2. Ruotare la pinza. (no limiti)
+3. Polso (limite: angolo)
+4. Gomito (limite: angolo)
+5. Spalla (limite: angolo)
+6. Ruotare tutto il braccio (no limiti)
