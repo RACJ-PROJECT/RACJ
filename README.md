@@ -29,9 +29,9 @@ Link: [Amazon](https://www.amazon.it/gp/product/B07TC2LFRL/ref=ox_sc_saved_title
 
 
 
-### Componenti da disegnare:
-Le componenti vanno ridisegnate per permettere maggiore manovrabilità.
-[Link](https://www.thingiverse.com/thing:1015238/files)
+### Componenti braccio meccanico:
+Le componenti vanno ridisegnate per permettere maggiore manovrabilità. 
+[Link template](https://www.thingiverse.com/thing:1015238/files)</br>
 Materiali che si possono utilizzare:
 - Plastica (stampante 3D)
 - Legno (forse troppo pesante)
@@ -40,17 +40,22 @@ Materiali che si possono utilizzare:
 
 
 
-Stampante 3d:
-https://www.prusa3d.it/prusaslicer/
-https://www.prusa3d.it/driver/
+### Documentazione stampante 3D:
+[Link 1](https://www.prusa3d.it/prusaslicer/)</br>
+[Link 2](https://www.prusa3d.it/driver/)
 </br></br>
 
-Idee:
-1. Sensori (giroscopio), rappresentazione vituale del braccio
-2. Telacamera dietro la pinza per foto (riconoscere oggetti)
+
+
+### Idee:
+1. Sensori (giroscopio), rappresentazione vituale del braccio.
+2. Telacamera dietro la pinza per foto (riconoscere oggetti).
+3. A.I. per giocare a tris.
 </br></br>
 
-Numero motori:</br>
+
+
+### Numero motori:
 1. Aprire/Chiudere pinza. (limite: sensore pressione)
 2. Ruotare la pinza. (no limiti)
 3. Polso (limite: angolo)
