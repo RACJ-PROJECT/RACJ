@@ -49,7 +49,7 @@ Materiali che si possono utilizzare:
 
 ### Software utile:
 - Libreria controller PS4: [Link](https://pypi.org/project/pyPS4Controller/)
-- ROS pagina ufficiale: [https://www.ros.org/]
+- ROS pagina ufficiale: [Link](https://www.ros.org/)
 - ROS: [Link 1](https://www.instructables.com/Getting-Started-with-ROS-Robotic-Operating-Syste/)
 - ROS: [Link 2](https://robohub.org/programming-for-robotics-introduction-to-ros/)
 - ROS: [Link 3](https://github.com/ros/documentation/tree/master/rosdoc)
