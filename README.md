@@ -58,9 +58,12 @@ Materiali che si possono utilizzare:
 
 
 ### Numero motori:
-1. Aprire/Chiudere pinza. (limite: sensore pressione)
-2. Ruotare la pinza. (no limiti)
-3. Polso (limite: angolo)
-4. Gomito (limite: angolo)
-5. Spalla (limite: angolo)
-6. Ruotare tutto il braccio (no limiti)
+Fase 1 </br>
+a. Aprire/Chiudere pinza. (limite: sensore pressione)
+b. Ruotare la pinza. (no limiti)
+c. Polso (limite: angolo)
+---------------------------------------------------------
+Fase 2 </br>
+d. Gomito (limite: angolo)
+e. Spalla (limite: angolo)
+f. Ruotare tutto il braccio (no limiti)
