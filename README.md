@@ -34,8 +34,8 @@ Le componenti vanno ridisegnate per permettere maggiore manovrabilità.
 [Link template](https://www.thingiverse.com/thing:1015238/files)</br>
 Materiali che si possono utilizzare:
 - Plastica (stampante 3D)
-- Legno (forse troppo pesante)
-- Metallo (forse troppo pesante)
+- Legno
+- Metallo
 </br></br>
 
 
