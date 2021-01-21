@@ -20,6 +20,8 @@ Nome        | Link
 ------------|--------------------------------------------------------------------------------------------------------------------------------------------------
 IIC-PCA9685 | [Amazon](https://www.amazon.it/ARCELI-Interfaccia-IIC-PCA9685-arduino-Raspberry/dp/B07RG9ZTMD/ref=asc_df_B07RG9ZTMD/?tag=googshopit-21&linkCode=df0&hvadid=459269273979&hvpos=&hvnetw=g&hvrand=17037251313190546924&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20543&hvtargid=pla-926730742055&psc=1)
 TB6600      | [Amazon](https://www.amazon.it/Scheda-controller-passo-passo-COVVY-segmenti/dp/B07SBZ9SM5/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=TB6600&qid=1610703473&s=industrial&sr=1-8)
+Servo Driver HAT | [KUBII] (https://www.kubii.it/schede-espansione-fotocamere-raspberry-pi/2750-servo-driver-hat-614961955844.html?search_query=sunfounder+55g+servo+driver+servo&results=158)
+
 
 
 - [ ] Alimentatore:
