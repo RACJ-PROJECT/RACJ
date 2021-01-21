@@ -58,6 +58,7 @@ Materiali che si possono utilizzare:
 
 
 ### Numero motori:
+
 Fase 1 </br>
 a. Aprire/Chiudere pinza. (limite: sensore pressione)
 b. Ruotare la pinza. (no limiti)
