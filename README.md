@@ -82,7 +82,7 @@ Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
 
 
 ### Fasi della progettazione
-- [ ] Fase 1a: Progettazione componenti (ridimensionare/ridisegnare); </br>
-- [ ] Fase 1b: Vedere funzionamento di R.O.S.; <\br>
-- [ ] Fase 2a: Gestione movimenti dei motori; </br>
-- [ ] Fase 2b: Progettazione gestione joystick; </br>
+- [ ] Fase 1a: Progettazione componenti (ridimensionare/ridisegnare);
+- [ ] Fase 1b: Vedere funzionamento di R.O.S.;
+- [ ] Fase 2a: Gestione movimenti dei motori;
+- [ ] Fase 2b: Progettazione gestione joystick;
