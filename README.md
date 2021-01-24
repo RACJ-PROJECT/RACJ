@@ -63,6 +63,8 @@ Materiali che si possono utilizzare:
 
 ### Numero motori:
 
+Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
+
 Fase 1 </br>
 - Gomito (limite: angolo)
 - Spalla (limite: angolo)
