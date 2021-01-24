@@ -36,10 +36,8 @@ Le componenti vanno ridisegnate per permettere maggiore manovrabilità. </br>
 - [parte 1/3](https://www.thingiverse.com/thing:1748596)</br>
 - [parte 2/3](https://www.thingiverse.com/thing:1750025)</br>
 - [parte 3/3](https://www.thingiverse.com/thing:1838120/)</br></br>
-Materiali che si possono utilizzare:
+Materiale:
 - Plastica (stampante 3D)
-- Legno
-- Metallo
 </br></br>
 
 
@@ -74,3 +72,10 @@ Fase 2 </br>
 - Aprire/Chiudere pinza. (limite: sensore pressione)
 - Ruotare la pinza. (no limiti)
 - Polso (limite: angolo)
+</br></br></br>
+
+
+
+## Fasi della progettazione
+### Fase 1: Progettazione componenti braccio
+- Verificare che le misure 
