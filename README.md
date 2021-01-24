@@ -31,6 +31,14 @@ Link: [Amazon](https://www.amazon.it/gp/product/B07TC2LFRL/ref=ox_sc_saved_title
 
 
 
+### Idee:
+1. Sensori (giroscopio), rappresentazione vituale del braccio tramite un software.
+2. Telacamera dietro la pinza per foto (A.I. per riconoscere oggetti).
+3. A.I. per giocare a tris.
+</br></br>
+
+
+
 ### Componenti braccio meccanico:
 Le componenti vanno ridisegnate per permettere maggiore manovrabilità. </br>
 - [parte 1/3](https://www.thingiverse.com/thing:1748596)</br>
@@ -63,12 +71,9 @@ Materiale:
 
 Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
 
-Fase 1 </br>
 - Gomito (limite: angolo)
 - Spalla (limite: angolo)
 - Ruotare tutto il braccio (no limiti)
----------------------------------------------------------
-Fase 2 </br>
 - Aprire/Chiudere pinza. (limite: sensore pressione)
 - Ruotare la pinza. (no limiti)
 - Polso (limite: angolo)
@@ -76,6 +81,8 @@ Fase 2 </br>
 
 
 
-## Fasi della progettazione
-### Fase 1: Progettazione componenti braccio
-- Verificare che le misure 
+### Fasi della progettazione
+- [ ] Fase 1a: Progettazione componenti (ridimensionare/ridisegnare); </br>
+- [ ] Fase 1b: Vedere funzionamento di R.O.S.; <\br>
+- [ ] Fase 2a: Gestione movimenti dei motori; </br>
+- [ ] Fase 2b: Progettazione gestione joystick; </br>
