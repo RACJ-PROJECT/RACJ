@@ -33,7 +33,7 @@ Link: [Amazon](https://www.amazon.it/gp/product/B07TC2LFRL/ref=ox_sc_saved_title
 
 ### Componenti braccio meccanico:
 Le componenti vanno ridisegnate per permettere maggiore manovrabilità. </br>
-- [parte 2/3](https://www.thingiverse.com/thing:1750025)<br><\br>
+- [parte 2/3](https://www.thingiverse.com/thing:1750025)</br></br>
 - [parte 3/3](https://www.thingiverse.com/thing:1838120/)</br></br>
 Materiali che si possono utilizzare:
 - Plastica (stampante 3D)
