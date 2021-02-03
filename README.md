@@ -71,12 +71,12 @@ Materiale:
 
 Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
 
-- Gomito (limite: angolo)
-- Spalla (limite: angolo)
-- Ruotare tutto il braccio (no limiti)
-- Aprire/Chiudere pinza. (limite: sensore pressione)
-- Ruotare la pinza. (no limiti)
-- Polso (limite: angolo)
+- Gomito (limite: angolo)                             servo
+- Spalla (limite: angolo)                             servo
+- Ruotare tutto il braccio (no limiti)                step motor
+- Aprire/Chiudere pinza. (limite: sensore pressione)  servo
+- Ruotare la pinza. (no limiti)                       step motor
+- Polso (limite: angolo)                              servo
 </br></br></br>
 
 
