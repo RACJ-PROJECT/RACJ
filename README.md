@@ -84,3 +84,8 @@ Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
 - [ ] Fase 1b: Vedere funzionamento di R.O.S.;
 - [ ] Fase 2a: Gestione movimenti dei motori;
 - [ ] Fase 2b: Progettazione gestione joystick;
+
+
+### Link drive con cartella dei progetti 
+ [link](https://drive.google.com/drive/u/1/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF)
+
