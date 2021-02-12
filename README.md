@@ -87,5 +87,5 @@ Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
 
 
 ### Link drive con cartella dei progetti 
- [link](https://drive.google.com/drive/u/1/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF)
+ [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)
 
