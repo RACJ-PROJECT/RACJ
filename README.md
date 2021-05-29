@@ -20,7 +20,7 @@ IIC-PCA9685 (servo shield) | [Amazon](https://www.amazon.it/gp/product/B07RG9ZTM
 
 
 Alimentatore        | Creato noi utilizzando un vecchio alimentatore di un pc
-
+------------|--------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Idee:
