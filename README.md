@@ -19,10 +19,7 @@ IIC-PCA9685 (servo shield) | [Amazon](https://www.amazon.it/gp/product/B07RG9ZTM
 
 
 
-- [ ] Alimentatore:
-
-Creato noi utilizzando un vecchio alimentatore di un pc.
-</br></br>
+Alimentatore        | Creato noi utilizzando un vecchio alimentatore di un pc
 
 
 
@@ -35,7 +32,7 @@ Creato noi utilizzando un vecchio alimentatore di un pc.
 
 
 ### Componenti braccio meccanico:
-Componenti disegnate del braccio:</br> [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)</br></br>
+Componenti disegnate del braccio: [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)</br></br>
 Materiale:
 - Alluminio (macchina a controllo numerico)
 - Plastica (stampante 3D)
