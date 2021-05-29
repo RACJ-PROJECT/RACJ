@@ -19,9 +19,9 @@ IIC-PCA9685 (servo shield) | [Amazon](https://www.amazon.it/gp/product/B07RG9ZTM
 
 
 
-Alimentatore        | Creato noi utilizzando un vecchio alimentatore di un pc
+Alimentatore        
 ------------|--------------------------------------------------------------------------------------------------------------------------------------------------
-
+Creato noi utilizzando un vecchio alimentatore di un pc
 
 ### Idee:
 1. Sensori (giroscopio), rappresentazione vituale del braccio tramite un software.
@@ -41,25 +41,17 @@ Materiale:
 
 
 ### Software utile:
-- Libreria controller PS4: [Link](https://pypi.org/project/pyPS4Controller/)
-- ROS pagina ufficiale: [Link](https://www.ros.org/)
-- ROS: [Link 1](https://www.instructables.com/Getting-Started-with-ROS-Robotic-Operating-Syste/)
-- ROS: [Link 2](https://robohub.org/programming-for-robotics-introduction-to-ros/)
-- ROS: [Link 3](https://github.com/ros/documentation/tree/master/rosdoc)
+- Libreria controller PS4: [Link](https://www.pygame.org/project/5129/7487)
+- Libreria servo shield: [Link](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
 </br></br>
 
 
 
 ### Numero motori:
-
-</br>
-
-- Gomito (limite: angolo)                             servo
-- Spalla (limite: angolo)                             servo
-- Ruotare tutto il braccio                            servo
-- Aprire/Chiudere pinza. (limite: sensore pressione)  servo
-- Ruotare la pinza. (no limiti)                       step motor
-- Polso (limite: angolo)                              servo
+- Spalla (2 motori)                                   servo
+- Ruotare tutto il braccio (1 motore)                 servo
+- Aprire/Chiudere pinza. (1 motore)                   servo
+- Ruotare la pinza. (1 motore)                        servo
 </br></br></br>
 
 
