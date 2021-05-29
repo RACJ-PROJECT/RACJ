@@ -10,23 +10,20 @@
 
  Nome          | Link
 ---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
- LDX 227       | [Amazon](https://www.amazon.it/LewanSoul-LDX-227-Standard-Digital-Bearing/dp/B077TXLWZS )
- 17HS19-2004S1 | [Amazon](https://www.amazon.it/NEMA-17HS19-2004S1-Motore-passo-passostampante/dp/B07P464BSX/ref=sr_1_2?dchild=1&keywords=17HS19-2004S1&qid=1610703387&sr=8-2)
+ MG996R (servo motori)       | [Amazon](https://www.amazon.it/gp/product/B07DQJ1JXY/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&psc=1)
 
 
 - [ ] Driver:
 
 Nome        | Link
 ------------|--------------------------------------------------------------------------------------------------------------------------------------------------
-IIC-PCA9685 | [Amazon](https://www.amazon.it/ARCELI-Interfaccia-IIC-PCA9685-arduino-Raspberry/dp/B07RG9ZTMD/ref=asc_df_B07RG9ZTMD/?tag=googshopit-21&linkCode=df0&hvadid=459269273979&hvpos=&hvnetw=g&hvrand=17037251313190546924&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20543&hvtargid=pla-926730742055&psc=1)
-TB6600      | [Amazon](https://www.amazon.it/Scheda-controller-passo-passo-COVVY-segmenti/dp/B07SBZ9SM5/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=TB6600&qid=1610703473&s=industrial&sr=1-8)
-Servo Driver HAT | [KUBII](https://www.kubii.it/schede-espansione-fotocamere-raspberry-pi/2750-servo-driver-hat-614961955844.html?search_query=sunfounder+55g+servo+driver+servo&results=158)
+IIC-PCA9685 (servo shield) | [Amazon](https://www.amazon.it/gp/product/B07RG9ZTMD/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
 
 
 - [ ] Alimentatore:
 
-Link: [Amazon](https://www.amazon.it/gp/product/B07TC2LFRL/ref=ox_sc_saved_title_5?smid=A6FTR3WNTF6EM&psc=1)
+Creato noi utilizzando un vecchio alimentatore di un pc.
 </br></br>
 
 
@@ -40,17 +37,11 @@ Link: [Amazon](https://www.amazon.it/gp/product/B07TC2LFRL/ref=ox_sc_saved_title
 
 
 ### Componenti braccio meccanico:
-Le componenti vanno ridisegnate per permettere maggiore manovrabilità. </br>
-- [link](https://www.thingiverse.com/thing:3327968)</br></br>
+Componenti disegnate del braccio:</br>
+- [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)</br></br>
 Materiale:
+- Alluminio (macchina a controllo numerico)
 - Plastica (stampante 3D)
-</br></br>
-
-
-
-### Documentazione stampante 3D:
-- [Link 1](https://www.prusa3d.it/prusaslicer/)</br>
-- [Link 2](https://www.prusa3d.it/driver/)
 </br></br>
 
 
@@ -67,11 +58,11 @@ Materiale:
 
 ### Numero motori:
 
-Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
+</br>
 
 - Gomito (limite: angolo)                             servo
 - Spalla (limite: angolo)                             servo
-- Ruotare tutto il braccio (no limiti)                step motor
+- Ruotare tutto il braccio                            servo
 - Aprire/Chiudere pinza. (limite: sensore pressione)  servo
 - Ruotare la pinza. (no limiti)                       step motor
 - Polso (limite: angolo)                              servo
@@ -81,11 +72,6 @@ Durante la fase 1 per testare la pinza si può usare una calamita. </br></br>
 
 ### Fasi della progettazione
 - [ ] Fase 1a: Progettazione componenti (ridisegnare);
-- [ ] Fase 1b: Vedere funzionamento di R.O.S.;
+- [ ] Fase 1b: Vedere funzionamento servo shield;
 - [ ] Fase 2a: Gestione movimenti dei motori;
 - [ ] Fase 2b: Progettazione gestione joystick;
-
-
-### Link drive con cartella dei progetti 
- [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)
-
