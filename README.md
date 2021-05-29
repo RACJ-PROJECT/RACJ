@@ -19,9 +19,9 @@ IIC-PCA9685 (servo shield) | [Amazon](https://www.amazon.it/gp/product/B07RG9ZTM
 
 
 
-Alimentatore    |    
+Alimentatore    | Link 
 ------------|--------------------------------------------------------------------------------------------------------------------------------------------------
-Creato noi utilizzando un vecchio alimentatore di un pc |
+Creato noi utilizzando un vecchio alimentatore di un pc | /
 
 ### Idee:
 1. Sensori (giroscopio), rappresentazione vituale del braccio tramite un software.
