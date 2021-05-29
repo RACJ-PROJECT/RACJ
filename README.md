@@ -6,16 +6,14 @@
 ### Elenco materiali:
 
 
-- [ ] Motori:
 
- Nome          | Link
+ Motori          | Link
 ---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
  MG996R (servo motori)       | [Amazon](https://www.amazon.it/gp/product/B07DQJ1JXY/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&psc=1)
 
 
-- [ ] Driver:
 
-Nome        | Link
+Driver        | Link
 ------------|--------------------------------------------------------------------------------------------------------------------------------------------------
 IIC-PCA9685 (servo shield) | [Amazon](https://www.amazon.it/gp/product/B07RG9ZTMD/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
@@ -37,8 +35,7 @@ Creato noi utilizzando un vecchio alimentatore di un pc.
 
 
 ### Componenti braccio meccanico:
-Componenti disegnate del braccio:</br>
-- [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)</br></br>
+Componenti disegnate del braccio:</br> [link](https://drive.google.com/drive/folders/1HjEIjqocrRrQA5hRc8pm9diKWBKX8TIF?usp=sharing)</br></br>
 Materiale:
 - Alluminio (macchina a controllo numerico)
 - Plastica (stampante 3D)
